@@ -1,0 +1,11 @@
+nome,email,cpf,telefone,data_nascimento,idade
+Ana Souza,ana.souza@email.com,123.456.789-00,(81) 98765-4321,15/03/1998,28
+Bruno Lima,bruno@empresa.com.br,987.654.321-11,(11) 3456-7890,02/11/1985,40
+Carla Mendes,carla.mendes@,111.222.333-44,(21) 99876-5432,20/07/2000,26
+Diego Rocha,diego.rocha@email.com,12345678900,(31) 91234-5678,10/01/1995,31
+Eduarda Alves,eduarda@email.com,222.333.444-55,81 987654321,05/05/1990,36
+Felipe Costa,felipe.costa@gmail.com,333.444.555-66,(85) 98888-7777,31/13/1992,34
+Gabriela Nunes,gabi.nunes@outlook.com,444.555.666-77,(41) 97777-6666,22/09/2001,vinte
+Henrique Dias,henrique@email.com,555.666.777-88,(51) 96666-5555,18/12/1880,145
+Isabela Martins,isa.martins@email.com,666.777.888-99,(61) 95555-4444,29/02/1996,30
+João Pereira,joao.pereira@email.com,777.888.999-00,(71) 94444-3333,08/08/1988,38

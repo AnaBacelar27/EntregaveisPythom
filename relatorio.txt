@@ -1,0 +1,30 @@
+============================================================
+               RELATÓRIO DE ANÁLISE DE DADOS                
+============================================================
+
+REGISTROS VÁLIDOS (4):
+  ✔ Ana Souza            ana.souza@email.com          123.456.789-00
+  ✔ Bruno Lima           bruno@empresa.com.br         987.654.321-11
+  ✔ Isabela Martins      isa.martins@email.com        666.777.888-99
+  ✔ João Pereira         joao.pereira@email.com       777.888.999-00
+
+REGISTROS INVÁLIDOS (6):
+  ✘ Linha 4 - Carla Mendes
+      • email em formato inválido: 'carla.mendes@'
+  ✘ Linha 5 - Diego Rocha
+      • cpf em formato inválido: '12345678900'
+  ✘ Linha 6 - Eduarda Alves
+      • telefone em formato inválido: '81 987654321'
+  ✘ Linha 7 - Felipe Costa
+      • data_nascimento em formato inválido: '31/13/1992'
+  ✘ Linha 8 - Gabriela Nunes
+      • idade não numérica: 'vinte'
+  ✘ Linha 9 - Henrique Dias
+      • idade fora do intervalo permitido (0-120): 145
+
+ESTATÍSTICAS:
+  Total de registros:  10
+  Registros válidos:   4
+  Registros inválidos: 6
+  Taxa de aprovação:   40.0%
+============================================================
